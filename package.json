@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Delta27222.github.io/AguacateShop_API",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
